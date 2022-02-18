@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BinarySearch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BinarySearch_jar</output-path>
+    <root id="archive" name="BinarySearch.jar">
+      <element id="module-output" name="BinarySearch" />
+    </root>
+  </artifact>
+</component>
